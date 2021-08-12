@@ -1,6 +1,5 @@
 # Calender-Reservation-Application
 
-/*
 -------------------------------------------------------- Calender Reservation Application --------------------------------------------------------------------
 1. Register a user.
 2. Create an event wit a set of users on a given day + slot.
@@ -17,4 +16,4 @@ Here we are simply using a concept of OOPs with String manipulation as well as L
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 This programme is done in Java you can use your own programming language as per your convenience.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
-*/
+
