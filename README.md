@@ -1,11 +1,11 @@
 # Calender-Reservation-Application
 
--------------------------------------------------------- Calender Reservation Application --------------------------------------------------------------------
+-------------------------------------------------------- Calender Reservation Application ------------------------------------------------------------
 1. Register a user.
 2. Create an event wit a set of users on a given day + slot.
 3. List event for a user on a given day.
 4. Suggest first time slot based on availability for a set of users for a givenn day and time range.
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 The above four different features in the Calender application is invoked when an user command specific syantx related this individual features in your console.
 1. add-user
 2. create-event
